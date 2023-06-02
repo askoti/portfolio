@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Navbar from './navbar'
 import Intro from './intro'
 import About from './about'

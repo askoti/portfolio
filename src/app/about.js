@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <div className="w-11/12 p-3 mx-auto lg:mt-52 mt-36">
+    <div className="w-11/12 p-3 mx-auto lg:mt-52 mt-36" id="about">
       <h1 className="text-3xl lg:text-6xl md:text-5xl uppercase font-light my-10">About Me</h1>
       <div className="flex flex-row flex-wrap justify-between">
         <div className="lg:w-1/3 md:w-1/3 sm:w-1/3 p-3">

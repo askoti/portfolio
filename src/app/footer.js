@@ -7,7 +7,6 @@ export default function Footer() {
         <ul className='flex flex-row flex-wrap justify-evenly my-3 bg-transparent'>
             <li className='bg-transparent font-semibold '><Link href='' className='bg-transparent'>About me</Link></li>
             <li className='bg-transparent font-semibold '><Link href='' className='bg-transparent'>Portfolio</Link></li>
-            <li className='bg-transparent font-semibold '><Link href='' className='bg-transparent'>Stages of working</Link></li>
             <li className='bg-transparent font-semibold '><Link href='' className='bg-transparent'>Feedback</Link></li>
             <li className='bg-transparent font-semibold '><Link href='' className='bg-transparent'>Contact</Link></li>
         </ul>

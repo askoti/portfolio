@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Intro() {
   return (
-    <div className="flex flex-col w-11/12 h-full mx-auto mb-32 p-3 mt-52">
+    <div className="flex flex-col w-11/12 h-full mx-auto mb-32 p-3 mt-52" id="home">
       <div className="text-3xl lg:text-6xl md:text-5xl mt-20 w-3/4 font-light uppercase bg-transparent z-10">
         <h1 className="lg:py-3 py-0 bg-transparent">Kastriot</h1>
         <h1 className="py-3 bg-transparent">Aliu</h1>
