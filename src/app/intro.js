@@ -11,12 +11,12 @@ export default function Intro() {
       </div>
       <div className="z-10 bg-transparent">
         <p className="lg:font-thin font-light text-sm lg:w-1/3 md:w-2/3 py-5 my-2 tracking-wide bg-transparent z-10">
-          Welcome to my portfolio! I'm Kastriot Aliu, a passionate Front-End
+          Welcome to my portfolio! I&apos;m Kastriot Aliu, a passionate Front-End
           Developer with a knack for creating captivating and flawless websites.
         </p>
         <button className="py-5 my-8 px-10 text-sm uppercase ring-orange-100 border">Order a Project</button>
       </div>
-      <Image src='/../public/ai.png' width={650} height={500} className=" bg-transparent absolute top-32 right-0"/>
+      <Image src='/../public/ai.png' width={650} height={500} className=" bg-transparent absolute top-32 right-0" alt="Image"/>
     </div>
   );
 }
