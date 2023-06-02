@@ -22,7 +22,7 @@ export default function Sidebar() {
             <ul className="text-center m-4 font-bold bg-transparent text-white">
                 <li className="p-3 bg-transparent">About Me</li>
                 <li className="p-3 bg-transparent">Skills</li>
-                <li className="p-3 bg-transparent">Portffolio</li>
+                <li className="p-3 bg-transparent">Portfolio</li>
                 <li className="p-3 bg-transparent">Contact</li>
             </ul>
       </div>
