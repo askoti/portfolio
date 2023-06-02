@@ -6,7 +6,7 @@ export default function About() {
       <h1 className="text-3xl lg:text-6xl md:text-5xl uppercase font-light my-10">About Me</h1>
       <div className="flex flex-row flex-wrap justify-between">
         <div className="lg:w-1/3 md:w-1/3 sm:w-1/3 p-3">
-          <Image src='/../public/pic1.jpg' width={500} height={400} className="" alt="Image"/>
+          <Image src='/pic1.jpg' width={500} height={400} className="" alt="Image"/>
           <p className="my-3 italic">
             At just 18 years old, I have embarked on a remarkable journey into
             the world of programming, having discovered my passion for it at the
@@ -26,7 +26,7 @@ export default function About() {
           <button className="lg:block md:block hidden border uppercase py-3 px-14 lg:my-44">See more</button>
         </div>
         <div className="lg:w-1/3 md:w-1/3 sm:w-1/3 p-3">
-          <Image src='/../public/macbook.jpg' width={600} height={500} className="hidden lg:inline md:inline sm:inline" alt="Image"/>
+          <Image src='/macbook.jpg' width={600} height={500} className="hidden lg:inline md:inline sm:inline" alt="Image"/>
           <p className="italic my-3">
             Although I have also gained exposure to Django, Pandas, and
             Matplotlib, my true passion lies in front-end development.

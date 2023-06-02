@@ -16,7 +16,7 @@ export default function Intro() {
         </p>
         <button className="py-5 my-8 px-10 text-sm uppercase ring-orange-100 border">Order a Project</button>
       </div>
-      <Image src='/../public/ai.png' width={650} height={500} className=" bg-transparent absolute top-32 right-0" alt="Image"/>
+      <Image src='/ai.png' width={650} height={500} className=" bg-transparent absolute top-32 right-0" alt="Image"/>
     </div>
   );
 }
